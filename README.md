@@ -23,7 +23,7 @@ Originally developed in English ([Hall, Pongrac & Buckholz, 1985](https://www.sc
 MIQ-3: 12-item questionnaire with 4 movements imagined in 3 sensory modalities (internal visual imagery, external visual imagery and kinesthetic imagery).
   - English: [Williams et al. 2012](https://journals.humankinetics.com/view/journals/jsep/34/5/article-p621.xml) | [Questionnaire link]()??
   - French: [Robin et al. 2020](https://www.sciencedirect.com/science/article/pii/S1360859221002059) | [Questionnaire link]()??
-  - Spanish: [Trapero-Asenjo et al. 2021](https://www.sciencedirect.com/science/article/pii/S2468781220306184?via%3Dihub) | [Questionnaire link]()??
+  - Spanish: [Trapero-Asenjo et al. 2021](https://www.sciencedirect.com/science/article/pii/S2468781220306184?via%3Dihub) and [Suárez Rozo et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9604630/) | [Questionnaire link]()??
   - Polish: [Budnik-Pryzbylska et al. 2016](https://doi.org/10.5114/cipp.2016.63218) | [Questionnaire link]()??
 
 Specifically for adults with disabilities, the MIQ-R was modified is a second revision (MIQ-RS) by [Gregg et al. 2007](https://onlinelibrary.wiley.com/doi/10.1093/ecam/nem170) to include movements that were simpler to perform and imagine.
@@ -41,6 +41,7 @@ The KVIQ is typically administered only for the affected hemibody (if there is o
 
 KVIQ-20/-10/-34:
   - English: [Malouin et al. 2007](https://journals.lww.com/jnpt/abstract/2007/03000/the_kinesthetic_and_visual_imagery_questionnaire.7.aspx) | [Questionnaire link]()??
-  - Spanish: [Melogno-Klinkas 2023]() | [Questionnaire link]()??
-  - 
+  - Spanish: [Melogno-Klinkas 2023](10.13140/RG.2.2.31030.70723) | [Questionnaire link](10.13140/RG.2.2.31030.70723)
+  - German: [Schuster et al. 2012](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-12-127) | [Questionnaire link]()??
+  - Japanese: [Nakano et al. 2018](https://www.mdpi.com/2076-3425/8/5/79) | [Questionnaire link]()??
 
