@@ -35,7 +35,7 @@ MIQ-RS: 14-item questionnaire with 7 movements imagined in 2 sensory modalities 
 
 # Kinesthetic and Visual Imagery Questionnaire (KVIQ-20/KVIQ-10/KVIQ-34)
 
-The KVIQ was developed in English [Malouin et al. 2007](https://journals.lww.com/jnpt/abstract/2007/03000/the_kinesthetic_and_visual_imagery_questionnaire.7.aspx). It was created specifically for people with physical disabilities.
+The KVIQ was developed in English ([Malouin et al. 2007](https://journals.lww.com/jnpt/abstract/2007/03000/the_kinesthetic_and_visual_imagery_questionnaire.7.aspx)). It was created specifically for people with physical disabilities.
 
 The KVIQ is typically administered only for the affected hemibody (if there is one). If done this way, the KVIQ-20 is a 20-item questionnaire with 10 movements imagined in 2 sensory modalities (visual imagery and kinesthetic imagery). It also has a short version, the KVIQ-10, with 5 movements. If administered bilaterally, the KVIQ-34 is a 34-item questionnaire.
 
