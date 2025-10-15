@@ -12,7 +12,7 @@ The VMIQ-2 is a 36-item questionnaire with 12 actions imagined in 3 sensory moda
 
 Languages:
   - English: [Roberts et al. 2008](https://doi.org/10.1027/2698-1866/a000022) | [Questionnaire link](https://osf.io/xtmd9/files/scxu4)
-  - German: [Dahm et al. 2020](https://econtent.hogrefe.com/doi/10.1026/1612-5010/a000273) | [Questionnaire link](https://www.testarchiv.eu/de/test/9007988)
+  - German: [Dahm et al. 2019](https://econtent.hogrefe.com/doi/10.1026/1612-5010/a000273) | [Questionnaire link](https://www.testarchiv.eu/de/test/9007988)
   - Hebrew: [Ziv et al. 2017](https://cdn.doctorsonly.co.il/2017/12/09_The-Vividness-of-Movement.pdf) | [Questionnaire link](https://cdn.doctorsonly.co.il/2017/12/09_The-Vividness-of-Movement.pdf)
   - Greek: [Plakoutsis et al. 2023](https://doi.org/10.1007/s44202-023-00091-5) | [Questionnaire link](https://doi.org/10.1007/s44202-023-00091-5)
 
