@@ -24,7 +24,7 @@ MIQ-3: 12-item questionnaire with 4 movements imagined in 3 sensory modalities (
   - English: [Williams et al. 2012](https://journals.humankinetics.com/view/journals/jsep/34/5/article-p621.xml) | [Questionnaire link]()??
   - French: [Robin et al. 2020](https://www.sciencedirect.com/science/article/pii/S1360859221002059) | [Questionnaire link]()??
   - Spanish: [Trapero-Asenjo et al. 2021](https://www.sciencedirect.com/science/article/pii/S2468781220306184?via%3Dihub) and [Suárez Rozo et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9604630/) | [Questionnaire link]()??
-  - Polish: [Budnik-Pryzbylska et al. 2016](https://doi.org/10.5114/cipp.2016.63218) | [Questionnaire link]()??
+  - Polish: [Budnik-Pryzbylska et al. 2016](https://doi.org/10.5114/cipp.2016.63218) | Contact authors of paper.
 
 Specifically for adults with disabilities, the MIQ-R was modified is a second revision (MIQ-RS) by [Gregg et al. 2007](https://onlinelibrary.wiley.com/doi/10.1093/ecam/nem170) to include movements that were simpler to perform and imagine.
 
