@@ -2,7 +2,7 @@
 
 This repository contains useful information about different versions of commonly used Movement Imagery Questionnaires.
 
-This is work in progress. If you are aware of new translations please reach out and we will update the repository.
+This is repository will always be work in progress. If you are aware of new translations and/or have access to questionnaire PDFs not listed below, please reach out and we will update the repository.
 
 # Vividness of Movement Imagery Questionnaire (VMIQ/VMIQ-2)
 
