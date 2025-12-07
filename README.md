@@ -45,3 +45,10 @@ KVIQ-20/-10/-34:
   - German: [Schuster et al. 2012](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-12-127) | Contact authors of paper.
   - Japanese: [Nakano et al. 2018](https://www.mdpi.com/2076-3425/8/5/79) | Contact authors of paper.
 
+# Action Observation and Motor Imagery Ability Questionnaire (AOMI-AQ)
+
+Movement imagery is can also be used in combination with Action Observation (observing a movement), a procedure usually termed AOMI. [Schott et al. 2024](https://journals.humankinetics.com/view/journals/jsep/46/4/article-p191.xml) developed the AOMI-AQ, a resource to assess the ability to perform AOMI.
+
+AOMI-AQ:
+  - English: [Schott et al. 2024](https://journals.humankinetics.com/view/journals/jsep/46/4/article-p191.xml) | [Questionnaire link](https://osf.io/vbqjw/?view_only=3382b7e43a794ed78ea0c17a17eebe1f)
+
