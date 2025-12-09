@@ -30,7 +30,7 @@ Specifically for adults with disabilities, the MIQ-R was modified is a second re
 
 MIQ-RS: 14-item questionnaire with 7 movements imagined in 2 sensory modalities (visual imagery and kinesthetic imagery).
   - English: [Gregg et al. 2007](https://onlinelibrary.wiley.com/doi/10.1093/ecam/nem170) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/MIQ)
-  - French: [Loison et al. 2013](https://www.sciencedirect.com/science/article/pii/S1877065713000031?via%3Dihub) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/MIQ).
+  - French: [Loison et al. 2013](https://www.sciencedirect.com/science/article/pii/S1877065713000031?via%3Dihub) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/MIQ)
   - Spanish: [Cantalejo-Fernández et al. 2021](https://onlinelibrary.wiley.com/doi/10.1002/pmrj.12546) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/MIQ)
 
 # Kinesthetic and Visual Imagery Questionnaire (KVIQ-20/KVIQ-10/KVIQ-34)
