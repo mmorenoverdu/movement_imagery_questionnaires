@@ -6,12 +6,12 @@ This is repository will always be work in progress. If you are aware of new tran
 
 # Vividness of Movement Imagery Questionnaire (VMIQ/VMIQ-2)
 
-The VMIQ was originally developed in English by [Marks et al. 1986](https://psycnet.apa.org/doiLanding?doi=10.1037%2Ft07980-000). It was revised by [Roberts et al. 2008](https://doi.org/10.1027/2698-1866/a000022), and therefore the most recent version is the VMIQ-2.
+The VMIQ was originally developed in English by [Isaac et al. (1986)](https://psycnet.apa.org/doiLanding?doi=10.1037%2Ft07980-000). It was revised by [Roberts et al. (2008)]( https://doi.org/10.1123/jsep.30.2.200), and therefore the most recent version is the VMIQ-2.
 
 The VMIQ-2 is a 36-item questionnaire with 12 actions imagined in 3 sensory modalities (internal visual imagery, external visual imagery and kinesthetic imagery).
 
 Languages:
-  - English: [Roberts et al. 2008](https://doi.org/10.1027/2698-1866/a000022) | [Questionnaire link](https://osf.io/xtmd9/files/scxu4)
+  - English: [Roberts et al. 2008](https://doi.org/10.1123/jsep.30.2.200) | [Questionnaire link](https://osf.io/xtmd9/files/scxu4)
   - German: [Dahm et al. 2019](https://econtent.hogrefe.com/doi/10.1026/1612-5010/a000273) | [Questionnaire link](https://www.testarchiv.eu/de/test/9007988)
   - Hebrew: [Ziv et al. 2017](https://cdn.doctorsonly.co.il/2017/12/09_The-Vividness-of-Movement.pdf) | [Questionnaire link](https://cdn.doctorsonly.co.il/2017/12/09_The-Vividness-of-Movement.pdf)
   - Greek: [Plakoutsis et al. 2023](https://doi.org/10.1007/s44202-023-00091-5) | [Questionnaire link](https://doi.org/10.1007/s44202-023-00091-5)
@@ -41,7 +41,7 @@ The KVIQ is typically administered only for the affected hemibody (if there is o
 
 KVIQ-20/-10/-34:
   - English: [Malouin et al. 2007](https://journals.lww.com/jnpt/abstract/2007/03000/the_kinesthetic_and_visual_imagery_questionnaire.7.aspx) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/KVIQ)
-  - Spanish: [Melogno-Klinkas 2023](10.13140/RG.2.2.31030.70723) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/KVIQ)
+  - Spanish: [Melogno-Klinkas 2023]( https://www.researchgate.net/publication/312600630_Cuestionario_de_Imaginacion_Cinestesica_y_Visual_KVIQ_Procedimiento_de_aplicacion#fullTextFileContent) | [Questionnaire link](https://github.com/mmorenoverdu/movement_imagery_questionnaires/tree/main/Questionnaire%20PDFs/KVIQ)
   - German: [Schuster et al. 2012](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-12-127) | Contact authors of paper.
   - Japanese: [Nakano et al. 2018](https://www.mdpi.com/2076-3425/8/5/79) | Contact authors of paper.
 
@@ -51,4 +51,3 @@ Movement imagery can also be used in combination with Action Observation (observ
 
 AOMI-AQ:
   - English: [Scott et al. 2024](https://journals.humankinetics.com/view/journals/jsep/46/4/article-p191.xml) | [Questionnaire link](https://osf.io/vbqjw/?view_only=3382b7e43a794ed78ea0c17a17eebe1f)
-
